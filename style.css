@@ -1,0 +1,93 @@
+body
+{
+    background: linear-gradient(#f7998d 0%, #5151ed 80%, #f507d190 100%, #f56d05 10%);
+    font-style: oblique;
+    font-family: Cursive;
+}
+
+.cricketButton1
+{
+    background-color: chartreuse;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    margin-right: 160px;
+}
+
+.cricketButton2
+{
+    background-color: chartreuse;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    margin-left: 160px;
+}
+
+.hockeyButton1
+{
+    background-color: burlywood;
+    font-family: Georgia;
+    font-size: large;
+    margin-right: 150px;
+}
+
+.hockeyButton2
+{
+    background-color: burlywood;
+    font-family: Georgia;
+    font-size: large;
+    margin-left: 150px;
+}
+
+#c, #h, #b
+{
+    color: cyan;
+}
+
+#mynavbar
+{
+    background-color: cornflowerblue;
+    font-size: large;
+    
+}
+
+.navbar-header
+{
+    color: tomato;
+}
+
+.copy_right_footer
+  {
+    position: fixed;
+    color: rgb(141, 243, 8);
+    bottom: 0;
+    width: 100%;
+    background-color: royalblue;
+    line-height: 3;
+    text-align: center;
+    font-size: 15px;
+  }
+
+  #cb
+  {
+    width: 300px;
+    text-align: left;
+    font-size: larger;
+    color: #5151ed;
+    border: 2px solid brown;
+    border-radius: 10px;
+  }
+
+  #more
+  {
+      background-color: #1616f0;
+      width: 80%;
+      box-shadow: 30px 30px 60px red;
+  }
+
+  .complaint
+  {
+      width: 100px;
+      float: none;
+      color: aqua;
+      background-color: red;
+      font-size: 18px;
+  }
